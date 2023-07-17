@@ -45,7 +45,7 @@ The project is structured as follows:
 - The `project_snapshots` folder contains snapshots of working and incorrect examples of the application.
 - The `src` folder contains the main source code files:
   - `equationSolver.py` contains the `EquationSolver` class for validating and solving equations over a specific domain.
-  - `function_plotter_gui.py` contains the `Window` class that represents the PySide2 GUI.
+  - `function_plotter_gui.py` contains the `FunctionPlotter` class that represents the PySide2 GUI.
 - The `tests` folder contains unit tests for the `EquationSolver` class and the PySide2 GUI.
 
 ## Installation
