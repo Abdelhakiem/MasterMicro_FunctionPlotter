@@ -57,11 +57,6 @@ To run the Function Plotter, you need to install the following dependencies:
 - NumPy
 - matplotlib
 
-You can install the dependencies using pip:
-
-```shell
-pip install PySide2 numpy matplotlib
-```
 
 ## Usage
 
@@ -78,11 +73,15 @@ The GUI window will appear, allowing you to enter the equation and the range of 
 Here are some screenshots of the Function Plotter application:
 
 - **Correct Examples:**
+  
   ![Correct Example](project_snapshots/working_examples/example1.png)
+  
   ![Correct Example](project_snapshots/working_examples/example3.png)
 
 - Incorrect Examples:
+  
   ![Incorrect Example](project_snapshots/wrong_examples/example1.png)
+  
   ![Incorrect Example](project_snapshots/wrong_examples/example3.png)
 
 ## Tests
